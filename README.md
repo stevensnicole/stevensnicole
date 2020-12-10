@@ -2,6 +2,9 @@
 **stevensnicole/stevensnicole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h2 align="center">👋 Welcome 👋</h2>
+<div align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=stevensnicole.stevensnicole" alt="Visitors">
+</div>
 <h2 align="center">Who am I?</h2>
 <p align="center">
 An experienced architect with 20 years in software and a strong background in troubleshooting. Currently spending the majority of my time immersed in the cloud, looking to drive change through DevOps principles and practices.
@@ -53,10 +56,16 @@ With signals from Microsoft pointing to GitHub Actions as the future, I am worki
     <td><a href="https://dev.to/nicole/running-macos-on-windows-10-with-wsl2-kvm-and-qemu-21e1">Running MacOS on Windows 10 with WSL2, KVM and QEMU</a></td>
   </tr>
   <tr>
-    <td><a href="https://dev.to/nicole/running-macos-on-windows-10-with-wsl2-kvm-and-qemu-21e1">Running MacOS on Windows 10 with WSL2, KVM and QEMU</a></td>
+    <td><a href="https://cloudskills.io/blog/git-azure-devops">Getting Started with Git and Azure DevOps: The Ultimate Guide</a></td>
   </tr>
   <tr>
-    <td><a href="https://dev.to/nicole/running-macos-on-windows-10-with-wsl2-kvm-and-qemu-21e1">Running MacOS on Windows 10 with WSL2, KVM and QEMU</a></td>
+    <td><a href="https://cloudskills.io/blog/git-azure-devops-2">Feature Branch Workflow and Pull Requests: The Ultimate Guide</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://cloudskills.io/blog/ci-dotnet-core">Continuous Integration (CI) with Azure Pipelines and .NET Core</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://dev.to/nicole/windows-terminal-port-a-scheme-from-iterm2-customise-your-own-scheme-and-use-a-custom-font-fga">Windows Terminal - customising fonts, prompts and styles</a></td>
   </tr>
 </table>
 </div>
@@ -66,5 +75,3 @@ With signals from Microsoft pointing to GitHub Actions as the future, I am worki
 <a href="https://linedin.com/nicolestevens"><img src="https://simpleicons.org/icons/linkedin.svg" width="30" height="30" alt=""></a>
 <a href="https://dev.to/nicole"><img src="https://simpleicons.org/icons/dev-dot-to.svg" width="30" height="30" alt=""></a>
 </p>
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=stevensnicole.stevensnicole" alt="Visitors">
