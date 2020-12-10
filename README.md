@@ -72,6 +72,7 @@ With signals from Microsoft pointing to GitHub Actions as the future, I am worki
 
 <h2 align="center">How to reach me</h2>
 <p align="center">
-<a href="https://linedin.com/nicolestevens"><img src="https://simpleicons.org/icons/linkedin.svg" width="30" height="30" alt=""></a>
+<a href="https://linkedin.com/nicolestevens"><img src="https://simpleicons.org/icons/linkedin.svg" width="30" height="30" alt=""></a>
+<a href="https://twitter.com/nicolesstevens"><img src="https://simpleicons.org/icons/twitter.svg" width="30" height="30" alt=""></a>
 <a href="https://dev.to/nicole"><img src="https://simpleicons.org/icons/dev-dot-to.svg" width="30" height="30" alt=""></a>
 </p>
