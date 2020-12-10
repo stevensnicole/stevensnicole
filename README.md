@@ -12,7 +12,7 @@ A lifelong learner and a big believer in "See one, do one, teach one", I've co-a
 </p>
 
 <p align="center">
-⚡ Fun fact: I was part of a [world record skydive](https://www.guinnessworldrecords.com/world-records/most-people-to-tandem-parachute-in-24-hours)!
+⚡ Fun fact: I was part of a <a display:block;" href="https://www.guinnessworldrecords.com/world-records/most-people-to-tandem-parachute-in-24-hours">world record skydive</a>
 </p>
 
 <h2 align="center"> What projects am I working on?</h2>
@@ -49,19 +49,21 @@ With signals from Microsoft pointing to GitHub Actions as the future, I am worki
 
 <a style="text-align: center;display:block;" href="https://dev.to/nicole/running-macos-on-windows-10-with-wsl2-kvm-and-qemu-21e1">Running MacOS on Windows 10 with WSL2, KVM and QEMU</a>
 
-<a style="text-align: center;display:block;" href="https://cloudskills.io/blog/git-azure-devops">Getting Started with Git and Azure DevOps: The Ultimate Guide</a>
+<p style="text-align: center;display:block;">
+<a href="https://cloudskills.io/blog/git-azure-devops">Getting Started with Git and Azure DevOps: The Ultimate Guide</a>
+</p>
 
 <a style="text-align: center;display:block;" href="https://cloudskills.io/blog/git-azure-devops-2">Feature Branch Workflow and Pull Requests: The Ultimate Guide</a>
 
 <a style="text-align: center;display:block;" href="https://cloudskills.io/blog/ci-dotnet-core">Continuous Integration (CI) with Azure Pipelines and .NET Core</a>
 
 <a style="text-align: center;display:block;" href="https://dev.to/nicole/windows-terminal-port-a-scheme-from-iterm2-customise-your-own-scheme-and-use-a-custom-font-fga">Windows Terminal, font, prompt and style customisation</a>
-
+</p>
 
 <h2 align="center">How to reach me</h2>
 <p align="center">
 <a href="https://linedin.com/nicolestevens"><img src="https://simpleicons.org/icons/linkedin.svg" width="30" height="30" alt=""></a>
-<a href="https://dev.to/dashboard"><img src="https://simpleicons.org/icons/dev-dot-to.svg" width="30" height="30" alt=""></a>
+<a href="https://dev.to/nicole"><img src="https://simpleicons.org/icons/dev-dot-to.svg" width="30" height="30" alt=""></a>
 </p>
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=stevensnicole.stevensnicole" alt="Visitors">
