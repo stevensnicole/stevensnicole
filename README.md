@@ -1,6 +1,13 @@
 <!--
 **stevensnicole/stevensnicole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<style>
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
 <h2 align="center">👋 Welcome 👋</h2>
 <h2 align="center">Who am I?</h2>
 <p align="center">
@@ -47,17 +54,23 @@ With signals from Microsoft pointing to GitHub Actions as the future, I am worki
 
 <h2 align="center">Recent blog posts</h2>
 
-<div style="text-align:center;display:block;">
-<a href="https://dev.to/nicole/running-macos-on-windows-10-with-wsl2-kvm-and-qemu-21e1">Running MacOS on Windows 10 with WSL2, KVM and QEMU</a>
-</div>
+<table class="center">
+  <tr>
+    <td><a href="https://dev.to/nicole/running-macos-on-windows-10-with-wsl2-kvm-and-qemu-21e1">Running MacOS on Windows 10 with WSL2, KVM and QEMU</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://dev.to/nicole/running-macos-on-windows-10-with-wsl2-kvm-and-qemu-21e1">Running MacOS on Windows 10 with WSL2, KVM and QEMU</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://dev.to/nicole/running-macos-on-windows-10-with-wsl2-kvm-and-qemu-21e1">Running MacOS on Windows 10 with WSL2, KVM and QEMU</a></td>
+  </tr>
+</table>
 
-<div style="text-align:center;display:block;">
-<a href="https://cloudskills.io/blog/git-azure-devops">Getting Started with Git and Azure DevOps: The Ultimate Guide</a>
-</div>
+<div style="text-align:center;display:block;"><a href="https://dev.to/nicole/running-macos-on-windows-10-with-wsl2-kvm-and-qemu-21e1">Running MacOS on Windows 10 with WSL2, KVM and QEMU</a></div>
 
-<div style="text-align:center;display:block;">
-<a href="https://cloudskills.io/blog/git-azure-devops-2">Feature Branch Workflow and Pull Requests: The Ultimate Guide</a>
-</div>
+<div style="text-align:center;display:block;"><a href="https://cloudskills.io/blog/git-azure-devops">Getting Started with Git and Azure DevOps: The Ultimate Guide</a></div>
+
+<div style="text-align:center;display:block;"><a href="https://cloudskills.io/blog/git-azure-devops-2">Feature Branch Workflow and Pull Requests: The Ultimate Guide</a></div>
 
 <a style="text-align:center;display:block;" href="https://cloudskills.io/blog/ci-dotnet-core">Continuous Integration (CI) with Azure Pipelines and .NET Core</a>
 
