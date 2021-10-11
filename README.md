@@ -74,5 +74,5 @@ With signals from Microsoft pointing to GitHub Actions as the future, I am worki
 <p align="center">
 <a href="https://linkedin.com/nicolestevens"><img src="https://simpleicons.org/icons/linkedin.svg" width="30" height="30" alt=""></a>
 <a href="https://twitter.com/nicolesstevens"><img src="https://simpleicons.org/icons/twitter.svg" width="30" height="30" alt=""></a>
-<a href="https://dev.to/nicole"><img src="https://simpleicons.org/icons/dev-dot-to.svg" width="30" height="30" alt=""></a>
+<a href="https://dev.to/nicole"><img src="https://unpkg.com/browse/simple-icons@5.18.0/icons/devdotto.svg" width="30" height="30" alt=""></a>
 </p>
