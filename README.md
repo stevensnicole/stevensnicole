@@ -11,7 +11,7 @@ An experienced architect with 20 years in software and a strong background in tr
 </p>
 
 <p align="center">
-A lifelong learner and a big believer in "See one, do one, teach one", I've co-authored two books in the last two years, now looking at further content creation around Azure and DevOps. Always open for content opportunities!
+A lifelong learner and a big believer in "See one, do one, teach one", I've co-authored two books in the last two years, along with a video course and certifcation questions for topics across Azure. I am now looking at further content creation around Azure and DevOps. Always open for content opportunities!
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ A lifelong learner and a big believer in "See one, do one, teach one", I've co-a
 
 <h2 align="center"> What projects am I working on?</h2>
 <p align="center">
-I'm currently working on multiple migrations; a private cloud to Windows Virtual Desktop, some legacy apps to IaaS / PaaS and architecting a greenfield cloud native solution. All of these are in Azure, tied into Azure DevOps for CI/CD.
+I'm currently working on multiple migrations; a private cloud to Azure Virtual Desktop, some legacy apps to IaaS / PaaS and architecting a greenfield cloud native solution. All of these are in Azure, tied into Azure DevOps for CI/CD.
 </p>
 <p align="center">
 <img src="https://simpleicons.org/icons/git.svg" width="30" height="30" alt="Git">
